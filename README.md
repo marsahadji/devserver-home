@@ -1,2 +1,17 @@
 # devserver-home
-@cleansoftsolutions developement server landing page 
+
+@cleansoftsolutions development server landing page
+
+## Dev
+
+```bash
+npm install
+npm run dev
+```
+
+## Prod
+
+```bash
+npm install
+npm run build
+```
