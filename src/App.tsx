@@ -16,7 +16,7 @@ function App() {
       <header className="fixed w-full bg-black/10 backdrop-blur-sm">
         <nav className="container mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-end space-x-2">
-            <img src="/icon-light.png" alt="Logo" className="h-10" />
+            <img src="/src/images/icon-light.png" alt="Logo" className="h-10" />
             <span className="text-white text-xl font-bold">
               CleanSoft Solutions
             </span>
@@ -42,7 +42,7 @@ function App() {
       <main className="container mx-auto px-6 pt-32">
         <div className="flex flex-col items-center text-center">
           <div className="animate-float mb-4">
-            <img src="/logo-light@2x.png" alt="Logo" className="h-24" />
+            <img src="/src/images/logo-light@2x.png" alt="Logo" className="h-24" />
           </div>
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-fade-in">
             CleanSoft Solutions DevHub
